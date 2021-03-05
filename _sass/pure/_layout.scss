@@ -12,7 +12,13 @@
 	}
 }
 
-.color-84 { color: $color-84; }
-.color-90 { color: $color-90; }
-.color-215 { color: $color-215; }
-.color-229 { color: $color-229; }
+.color-84  { color: $color-green;  }
+.color-90  { color: $color-gray;   }
+.color-215 { color: $color-orange; }
+.color-229 { color: $color-yellow; }
+
+.vcard {
+	white-space: pre;
+    font-size: 14px;
+    line-height: 16px;
+}

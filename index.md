@@ -7,4 +7,10 @@
 #
 layout: home
 ---
-My theme
+
+<div class="vcard">
+█▀▀▀▀▀█  |
+█ ███ █  |  My theme
+█ ▀▀▀ █  |  Another line
+▀▀▀▀▀▀▀  |
+</div>
